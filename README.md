@@ -48,11 +48,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="43" height="31" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rakhidesale/rakhidesale/snake.svg" alt="Snake animation" />
-
-###
