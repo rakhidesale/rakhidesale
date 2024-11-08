@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rakhidesale/rakhidesale/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rakhidesale/rakhidesale/snake.svg" alt="Snake animation" />
 
 ###
